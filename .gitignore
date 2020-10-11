@@ -3,3 +3,11 @@
 ################################################################################
 
 *.suo
+/UnitTestNahuelSantos/bin/Debug/netcoreapp3.1
+/UnitTestNahuelSantos/obj
+/UnitTestNahuelSantos/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/UnitTestNahuelSantos/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/UnitTestNahuelSantos/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/UnitTestNahuelSantos/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/UnitTestNahuelSantos/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/.vs/NahuelSantos/v16/TestStore/0
