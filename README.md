@@ -17,6 +17,7 @@ The solution proposed has been developed using the default dotnet Core + React t
 #### Considerations
 
 * Test are pretty basic. The main purpose of them is to check that everything keeps working if any change is done and to include testing for the future.
+* This solution only works for English language. Although it could also work for other languages by adding the proper translations, it won't work with languages like French.
 * Styles are pretty basic. Some extra work could be done to make it look prettier.
 * A better error handling in the client side is encouraged. Specially a better message if the user can fix it.
 
