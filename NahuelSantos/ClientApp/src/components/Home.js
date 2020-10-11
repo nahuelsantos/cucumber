@@ -8,8 +8,8 @@ export class Home extends Component {
             <div>
                 <h1>Hi there, </h1>
                 <p>This simple application addresses Cucumber Technical Test.</p>
-                <p>The solution proposed has been developed using the default dotnet Core + React template in Visual Studio 2019.</p>
                 <p>To try the solution, go to <a href='/converter'>Converter</a> page.</p>
+                <p>The solution proposed has been developed using the default dotnet Core + React template in Visual Studio 2019.</p>
                 <ul>
                     <li><a href='https://get.asp.net/'>ASP.NET Core</a> and <a href='https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx'>C#</a> for cross-platform server-side code</li>
                     <li><a href='https://facebook.github.io/react/'>React</a> for client-side code</li>
