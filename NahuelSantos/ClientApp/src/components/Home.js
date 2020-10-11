@@ -25,7 +25,9 @@ export class Home extends Component {
                 <p>Considerations</p>
                 <ul>
                     <li>Test are pretty basic. The main purpose of them is to check that everything keeps working if any change is done and to include testing for the future.</li>
-                    <li>Styles are pretty basic. Some extra work could be done to make it look prettier.</li>
+                    <li>This solution only works for English language. Although it could also work for other languages by adding the proper translations, it won't work with languages like French.</li>
+                    <li>Since there are no requirements, input validation is basic, only avoiding users to type non digits numbers in the number field. </li>
+                    <li>Styles are pretty basic. Some extra work could be done to make it look prettier. With more complex styles, a CSS preprocessor scripting language should be used (Sass or Less).</li>
                     <li>A better error handling in the client side is encouraged. Specially a better message if the user can fix it.</li>
                 </ul>
                 <p>Final Notes</p>
